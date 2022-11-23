@@ -1,0 +1,12 @@
+body {
+	background-image: url("woof2.jpeg") 
+ }
+
+h2{ letter-spacing: 7px; }
+
+
+ h3 {
+ 	text-decoration: overline;
+ 	text-transform: uppercase;
+ 	letter-spacing: 4px;
+ }
